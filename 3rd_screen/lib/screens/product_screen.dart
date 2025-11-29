@@ -46,7 +46,7 @@ class ProductScreen extends StatelessWidget {
                     style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
                   ),
                   Text(
-                    "\$542",
+                    "\$600",
                     style: TextStyle(
                       fontSize: 24,
                       color: Colors.red,
